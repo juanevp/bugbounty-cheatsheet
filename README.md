@@ -1,10 +1,16 @@
 # Bug Bounty Cheat Sheet
 
 - [Bug Bounty Platforms](cheatsheets/bugbountyplatforms.md)
+- [Community](cheatsheets/community.md)
 - [Books](cheatsheets/books.md)
 - [Special Tools](cheatsheets/special-tools.md)
 - [Recon](cheatsheets/recon.md)
 - [Practice Platforms](cheatsheets/practice-platforms.md)
+- [Training](cheatsheets/training.md)
+- [Open Redirect](cheatsheets/open-redirect.md)
+- [Crypto](cheatsheets/crypto.md)
+
+##Attacks
 - [XSS](cheatsheets/xss.md)
 - [SQLI](cheatsheets/sqli.md)
 - [SSRF](cheatsheets/ssrf.md)
@@ -13,8 +19,6 @@
 - [LFI](cheatsheets/lfi.md)
 - [XXE](cheatsheets/xxe.md)
 - [RCE](cheatsheets/rce.md)
-- [Open Redirect](cheatsheets/open-redirect.md)
-- [Crypto](cheatsheets/crypto.md)
 - [Template Injection](cheatsheets/template-injection.md)
 - [Content Injection](cheatsheets/content-injection.md)
 - [XSLT Injection](cheatsheets/xslt.md)

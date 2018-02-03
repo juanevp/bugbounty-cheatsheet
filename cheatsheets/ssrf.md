@@ -71,3 +71,8 @@ http://169.254.169.254/latest/meta-data/public-hostname
 > If there is an IAM role associated with the instance, role-name is the name of the role, and role-name contains the temporary security credentials associated with the role [...]
 
 _Link:_ http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html (includes a comprehensive Instance Metadata Categories table)
+
+
+- [SSRF Bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
+- [psychoPATH](https://github.com/ewilded/psychoPATH)
+

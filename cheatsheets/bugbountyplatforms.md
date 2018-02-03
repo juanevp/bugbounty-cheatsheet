@@ -10,6 +10,7 @@
 - [Safehats](https://safehats.com/)
 - [BugbountyHQ](https://www.bugbountyhq.com/)
 - [Hackerhive](https://hackerhive.io/)
+- [OpenBugBounty](https://www.openbugbounty.org/)
 
 
 **Invite based Platforms**
@@ -20,3 +21,11 @@
 - [Yogosha](https://www.yogosha.com/)
 - [Bugbountyzone](https://bugbountyzone.com/)
 - [Antihack.me](http://www.antihack.me/)
+
+**Bug bounty programs**
+- [Google Reward Program](https://www.google.com/about/appsecurity/programs-home/)
+- [Facebook](https://www.facebook.com/BugBounty/)
+- [PayPal](https://www.paypal.com/bugbounty/)
+
+**Related**
+- [The unofficial HackerOne disclosure timeline](http://h1.nobbd.de/)

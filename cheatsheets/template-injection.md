@@ -21,3 +21,6 @@ This payload should output `7777777`.
 ```
 {{7*'7'}}
 ```
+
+
+- [Tplmap](https://github.com/epinna/tplmap)

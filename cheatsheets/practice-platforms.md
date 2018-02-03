@@ -12,3 +12,7 @@
 - [Hack Yourself First](http://hackyourselffirst.troyhunt.com/)
 - [bWAPP](http://www.itsecgames.com/)
 - [Pentestbox](https://pentestbox.org/)
+- [VulnHub](https://www.vulnhub.com/)
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
+- [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
+- [Exploitable](https://github.com/Miserlou/Exploitable)

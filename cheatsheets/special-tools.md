@@ -43,10 +43,34 @@ otherapp.10.0.0.1.nip.io
 - [Google CT](https://transparencyreport.google.com/https/certificates) (SSL certificate transparency search)
 - [PenTest Tools](https://pentest-tools.com/information-gathering/google-hacking) (Google dorks)
 - [Wayback Machine](https://archive.org/web/) (Find stuff which was hosted on the domain in past)
+- [Haddix domain](https://github.com/jhaddix/domain)
+- [Intrigue](https://github.com/intrigueio/intrigue-core)
+- [Sublist3r](https://github.com/aboul3la/Sublist3r)
+- [MassDns](https://github.com/blechschmidt/massdns)
+- [GoBuster](https://github.com/OJ/gobuster)
+- [BruteSubs](https://github.com/anshumanbh/brutesubs)
+- [Masscan](https://github.com/robertdavidgraham/masscan)
+- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness)
+- [Robots disallowed](https://github.com/danielmiessler/RobotsDisallowed)
 
-
+**Platform indentification**
+- [Wappalyzer](https://www.wappalyzer.com/)
+- [Built With](https://builtwith.com/)
 
 **Report Templates**
 
 - https://github.com/fransr/template-generator
 - https://github.com/ZephrFish/BugBountyTemplates
+
+**Password cracking**
+
+- [CrackStation](https://crackstation.net/)
+
+**Lists/Dictionaries**
+- [SecLists](https://github.com/danielmiessler/SecLists/)
+
+
+**Misc**
+- [PunkSpider](https://punk.sh/#/)
+- [XSS.Cx - Crawler and Injection Reporting Tool](http://xss.cx)
+- [Vulners - vulnerability database](https://vulners.com/landing)
