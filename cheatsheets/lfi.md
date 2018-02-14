@@ -1,4 +1,4 @@
-## LFI
+## LFI (Local file inclusion)
 
 **Filter Bypass**
 
@@ -42,3 +42,9 @@ Alternative scripts exist which may generate different HLS formats or lead to th
 * http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter
 * http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/
 * http://www.digininja.org/blog/when_all_you_can_do_is_read.php
+
+**LFI to RCE**
+* https://ibb.co/ntk0mR
+
+**Tools**
+- [LFI Suite](https://github.com/D35m0nd142/LFISuite)

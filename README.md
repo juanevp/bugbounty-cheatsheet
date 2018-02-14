@@ -9,6 +9,8 @@
 - [Training](cheatsheets/training.md)
 - [Open Redirect](cheatsheets/open-redirect.md)
 - [Crypto](cheatsheets/crypto.md)
+- [Burp Suite Related](cheatsheets/burp-suite.md)
+- [Source code](cheatsheets/source-code.md)
 
 ##Attacks
 - [XSS](cheatsheets/xss.md)
@@ -22,6 +24,7 @@
 - [Template Injection](cheatsheets/template-injection.md)
 - [Content Injection](cheatsheets/content-injection.md)
 - [XSLT Injection](cheatsheets/xslt.md)
+- [Deserialization](cheatsheets/deserialization.md)
 
 # Contributing
 

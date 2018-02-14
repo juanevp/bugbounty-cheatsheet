@@ -14,6 +14,9 @@ Final example:
 444/**/OR/**/MID(CURRENT_USER,1,1)/**/LIKE/**/"p"/**/#
 ```
 
+**Tools**
+- [SQLMap](http://sqlmap.org/)
+
 **Blogs**
 
 * http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet

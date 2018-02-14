@@ -9,6 +9,7 @@
 **Mobile**
 - [The Mobile Application Hacker's Handbook](https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500) by Dominic Chell et al.
 - [iOS Application Security: The Definitive Guide for Hackers and Developers](https://www.nostarch.com/iossecurity) by David Thiel.
+- [IoT Pentesting Guide (free)](https://www.gitbook.com/book/adi0x901/iot-pentesting-guide/details)
 
 **Cryptography**
 - [Crypto 101](https://www.crypto101.io/) by Laurens Van Houtven.

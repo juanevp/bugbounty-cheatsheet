@@ -22,5 +22,5 @@ This payload should output `7777777`.
 {{7*'7'}}
 ```
 
-
+**SSTI (server side template injection)**
 - [Tplmap](https://github.com/epinna/tplmap)

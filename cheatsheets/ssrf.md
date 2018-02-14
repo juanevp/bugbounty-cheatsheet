@@ -75,4 +75,7 @@ _Link:_ http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata
 
 - [SSRF Bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
 - [psychoPATH](https://github.com/ewilded/psychoPATH)
+- [IP Obfuscator](https://github.com/C-REMO/Obscure-IP-Obfuscator)
+- [SSRF Detector](https://github.com/JacobReynolds/ssrfDetector)
+- [Ground control](https://github.com/jobertabma/ground-control)
 

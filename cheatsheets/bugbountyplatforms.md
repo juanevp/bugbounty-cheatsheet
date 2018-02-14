@@ -2,8 +2,8 @@
 
 **Open For Signup**
 
-- [HackerOne](https://www.hackerone.com/)
-- [Bugcrowd](https://www.bugcrowd.com/)
+- [HackerOne](https://www.hackerone.com/) ([blog](https://www.hackerone.com/blog), [Zero daily](https://www.hackerone.com/zerodaily))
+- [Bugcrowd](https://www.bugcrowd.com/) ([blog](https://blog.bugcrowd.com/))
 - [BountyFactory](https://bountyfactory.io/)
 - [Intigriti](https://intigriti.be/)
 - [Bugbountyjp](https://bugbounty.jp/)

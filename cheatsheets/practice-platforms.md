@@ -14,5 +14,8 @@
 - [Pentestbox](https://pentestbox.org/)
 - [VulnHub](https://www.vulnhub.com/)
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
-- [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
+- [OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) (or in [Github](https://github.com/WebGoat/WebGoat))
 - [Exploitable](https://github.com/Miserlou/Exploitable)
+- [Tiredful-API](https://github.com/payatu/Tiredful-API)
+- [OWASP BWA (Broken Web Applicatoin)](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project) (or in [GitHub](https://github.com/chuckfw/owaspbwa/))
+

@@ -219,7 +219,12 @@ javascript:(function()%7Bvar str='';var attack=prompt('Attack','');if(!attack)re
 - [Reddit xss](https://www.reddit.com/r/xss/)
 - [OWASP XSS cheat-sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
+**Tools**
+- [XSS Radar](https://github.com/bugbountyforum/XSS-Radar)
+- [XSS'OR](http://xssor.io/)
+
+
 **Blind XSS Frameworks (aka Out-of-band XSS)**
 - [Sleepy puppy](https://github.com/Netflix/sleepy-puppy)
-- [XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter)
+- [XSS Hunter](https://xsshunter.com) ([server](https://github.com/mandatoryprogrammer/xsshunter), [client](https://github.com/mandatoryprogrammer/xsshunter_client))
 - [Ground Control](https://github.com/jobertabma/ground-control)

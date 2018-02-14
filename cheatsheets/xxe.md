@@ -93,3 +93,12 @@ File stored on http://publicServer.com/parameterEntity_sendftp.dtd
 ```
 To convert between UTF-8 & UTF-7 use recode.
 `recode UTF8..UTF7 payload-file.xml`
+
+**Resources**
+- [OWASP XXE](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing)
+- [Out of Band XML External Entity Injection via SAML SSO (Sam Melia)](https://seanmelia.files.wordpress.com/2016/01/out-of-band-xml-external-entity-injection-via-saml-redacted.pdf)
+
+**Tools**
+- [oxml_xxe](https://github.com/BuffaloWill/oxml_xxe/)
+- [XXEinjector](https://github.com/enjoiz/XXEinjector)
+- [xxer (xxe callback handler)](https://github.com/TheTwitchy/xxer)
